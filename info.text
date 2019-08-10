@@ -1,0 +1,8 @@
+In order to get the map, run the below command:
+
+./graphhopper.sh web bayern-latest.osm.pbf
+
+
+bayern-latest.osm.pbf can be downloaded from:
+
+http://download.geofabrik.de/europe/germany/bayern-latest.osm.pbf
